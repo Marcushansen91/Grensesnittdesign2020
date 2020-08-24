@@ -9,6 +9,7 @@ let container = document.getElementById('container');
 const createTitle = (title) => {
     let header = document.createElement("H2");
     const text = document.createTextNode(title);
+    header.className = "title"
     header.appendChild(text);
     return header;
 }
