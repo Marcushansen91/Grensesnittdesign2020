@@ -1,0 +1,10 @@
+/* Note make for mobile firs. If you do have time, then you can utilize the 
+@Media querryies to make your code look good on both tables and desktops as well */
+
+@media only screen and (min-width: 600px) {
+    /* For tablets: */
+  }
+
+  @media only screen and (min-width: 768px) {
+    /* For desktop: */
+  }
